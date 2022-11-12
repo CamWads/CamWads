@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Cameron
-- 👀 I’m interested in Blockchain/Smartcontract development, Technology, Nature
-- 🌱 I’m currently learning Python and plan to learn web development 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in space, robotics, future technology.
+- 🌱 I’m currently studying engineering. 
 - 📫 How to reach me: email is cam.development2@gmail.com
 
 <!---
