@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cameron
 - 👀 I’m interested in space, robotics, future technology.
-- 🌱 I’m currently studying engineering. 
+- 🌱 I’m currently studying Mechanical Engineering at UBC. 
 - 📫 How to reach me: email is cam.development2@gmail.com
 
 <!---
